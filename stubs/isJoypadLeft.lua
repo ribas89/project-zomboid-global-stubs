@@ -1,0 +1,3 @@
+---@meta
+function isJoypadLeft(...) end
+

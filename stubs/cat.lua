@@ -1,0 +1,32 @@
+---@meta
+---@class cat
+---@field avatarXOffset any
+---@field avatarYOffset any
+---@field avatarZoom any
+---@field beard any
+---@field cat any
+---@field category any
+---@field femaleHaircut any
+---@field haircut any
+---@field haircutColor any
+---@field maleHaircut any
+---@field minWorldAge any
+---@field name any
+---@field onlyFor any
+---@field outfit any
+---@field avatarXOffset any
+---@field avatarYOffset any
+---@field avatarZoom any
+---@field beard any
+---@field cat any
+---@field category any
+---@field femaleHaircut any
+---@field haircut any
+---@field haircutColor any
+---@field maleHaircut any
+---@field minWorldAge any
+---@field name any
+---@field onlyFor any
+---@field outfit any
+cat = cat or {}
+

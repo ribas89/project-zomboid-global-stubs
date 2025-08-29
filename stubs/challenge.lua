@@ -1,0 +1,25 @@
+---@meta
+---@class challenge
+---@field challenge any
+---@field desc any
+---@field description any
+---@field gameMode any
+---@field id any
+---@field internal any
+---@field mode any
+---@field name any
+---@field onMouseDown any
+---@field thumb any
+---@field video any
+---@field world any
+---@field challenge any
+---@field desc any
+---@field description any
+---@field internal any
+---@field mode any
+---@field name any
+---@field onMouseDown any
+---@field thumb any
+---@field video any
+challenge = challenge or {}
+

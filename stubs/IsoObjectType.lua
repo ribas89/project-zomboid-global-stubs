@@ -1,0 +1,21 @@
+---@meta
+---@class IsoObjectType
+---@field curtainE any
+---@field curtainN any
+---@field curtainS any
+---@field curtainW any
+---@field doorFrN any
+---@field doorFrW any
+---@field doorN any
+---@field doorW any
+---@field lightswitch any
+---@field stairsBN any
+---@field stairsBW any
+---@field stairsMN any
+---@field stairsMW any
+---@field stairsTN any
+---@field stairsTW any
+---@field tree any
+---@field wall any
+IsoObjectType = IsoObjectType or {}
+

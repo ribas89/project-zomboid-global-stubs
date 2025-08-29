@@ -1,0 +1,41 @@
+---@meta
+---@class chatText
+---@field autosetheight any
+---@field background any
+---@field chatMessages any
+---@field chatTextLines any
+---@field log any
+---@field logIndex any
+---@field marginBottom any
+---@field marginTop any
+---@field maxLines any
+---@field onMouseDown any
+---@field onMouseUp any
+---@field onRightMouseDown any
+---@field onRightMouseUp any
+---@field render any
+---@field tabTitle any
+---@field text any
+---@field vscroll any
+---@field autosetheight any
+---@field background any
+---@field chatMessages any
+---@field chatTextLines any
+---@field log any
+---@field logIndex any
+---@field marginBottom any
+---@field marginTop any
+---@field maxLines any
+---@field onMouseDown any
+---@field onMouseUp any
+---@field onRightMouseDown any
+---@field onRightMouseUp any
+---@field render any
+---@field text any
+chatText = chatText or {}
+
+---@class chatText_vscroll
+---@field background any
+---@field background any
+chatText.vscroll = chatText.vscroll or {}
+function chatText.vscroll:setVisible() end

@@ -1,0 +1,3 @@
+---@meta
+function setupRole(...) end
+

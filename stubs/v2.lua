@@ -1,0 +1,24 @@
+---@meta
+---@class v2
+---@field alias any
+---@field concrete any
+---@field file any
+---@field freq any
+---@field gain any
+---@field grass any
+---@field looped any
+---@field maxrange any
+---@field maxreverbrange any
+---@field minrange any
+---@field name any
+---@field preferedTriggerRange any
+---@field priority any
+---@field reverbfactor any
+---@field sound any
+---@field upstairs any
+---@field uuid any
+---@field wood any
+---@field freq any
+---@field looped any
+v2 = v2 or {}
+

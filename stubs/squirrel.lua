@@ -1,0 +1,24 @@
+---@meta
+---@class squirrel
+---@field baits any
+---@field item any
+---@field maxHour any
+---@field maxSize any
+---@field minHour any
+---@field minSize any
+---@field strength any
+---@field traps any
+---@field type any
+---@field zone any
+---@field baits any
+---@field item any
+---@field maxHour any
+---@field maxSize any
+---@field minHour any
+---@field minSize any
+---@field strength any
+---@field traps any
+---@field type any
+---@field zone any
+squirrel = squirrel or {}
+

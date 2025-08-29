@@ -1,0 +1,28 @@
+---@meta
+---@class prop
+---@field aphidsBane any
+---@field aphidsProof any
+---@field badMonth any
+---@field badMonthHardyLevel any
+---@field bestMonth any
+---@field coldHardy any
+---@field fliesBane any
+---@field fliesProof any
+---@field fullGrown any
+---@field harvestLeve any
+---@field harvestLevel any
+---@field harvestPosition any
+---@field isHouseplant any
+---@field mature any
+---@field riskMonth any
+---@field rotTime any
+---@field seasonRecipe any
+---@field slugsBane any
+---@field slugsProof any
+---@field sowMonth any
+---@field timeToGrow any
+---@field waterLvl any
+---@field waterLvlMax any
+---@field waterNeeded any
+prop = prop or {}
+

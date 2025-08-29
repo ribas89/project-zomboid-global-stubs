@@ -1,0 +1,48 @@
+---@meta
+---@class ClothingSelectionDefinitions
+---@field burgerflipper any
+---@field burglar any
+---@field carpenter any
+---@field chef any
+---@field constructionworker any
+---@field default any
+---@field doctor any
+---@field electrician any
+---@field engineer any
+---@field farmer any
+---@field fireofficer any
+---@field fisherman any
+---@field fitnessInstructor any
+---@field lumberjack any
+---@field mechanics any
+---@field metalworker any
+---@field nurse any
+---@field parkranger any
+---@field policeofficer any
+---@field repairman any
+---@field securityguard any
+---@field veteran any
+---@field burgerflipper any
+---@field burglar any
+---@field carpenter any
+---@field chef any
+---@field constructionworker any
+---@field default any
+---@field doctor any
+---@field electrician any
+---@field engineer any
+---@field farmer any
+---@field fireofficer any
+---@field fisherman any
+---@field fitnessInstructor any
+---@field lumberjack any
+---@field mechanics any
+---@field metalworker any
+---@field nurse any
+---@field parkranger any
+---@field policeofficer any
+---@field repairman any
+---@field securityguard any
+---@field veteran any
+ClothingSelectionDefinitions = ClothingSelectionDefinitions or {}
+

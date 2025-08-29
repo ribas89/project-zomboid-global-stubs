@@ -1,0 +1,39 @@
+---@meta
+---@class WalkToAdjacent
+---@field appleContainer any
+---@field finished any
+---@field highlightFloor any
+---@field inLoc any
+---@field inLoc2 any
+---@field lastPlayerX any
+---@field lastPlayerY any
+---@field otherRoomInLocX any
+---@field otherRoomInLocY any
+---@field otherRoomX1 any
+---@field otherRoomX2 any
+---@field otherRoomY1 any
+---@field otherRoomY2 any
+---@field runned any
+---@field sneaked any
+---@field strafed any
+---@field x2 any
+---@field y2 any
+---@field z any
+---@field appleContainer any
+---@field finished any
+---@field highlightFloor any
+---@field lastPlayerX any
+---@field lastPlayerY any
+---@field otherRoomInLocX any
+---@field otherRoomInLocY any
+---@field otherRoomX1 any
+---@field otherRoomX2 any
+---@field otherRoomY1 any
+---@field otherRoomY2 any
+---@field runned any
+---@field sneaked any
+---@field x2 any
+---@field y2 any
+---@field z any
+WalkToAdjacent = WalkToAdjacent or {}
+

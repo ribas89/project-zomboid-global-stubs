@@ -1,0 +1,56 @@
+---@meta
+---@class UIManager
+---@field AddUI any
+---@field FadeOut any
+---@field RemoveElement any
+---@field RemoveUI any
+---@field getBlinkAlpha any
+---@field getClock any
+---@field getLastPicked any
+---@field getMillisSinceLastRender any
+---@field getMillisSinceLastUpdate any
+---@field getMoodleUI any
+---@field getSecondsSinceLastRender any
+---@field getSecondsSinceLastUpdate any
+---@field getSpeedControls any
+---@field getSyncedIconIndex any
+---@field getUI any
+---@field isDoubleClick any
+---@field isShowLuaDebuggerOnError any
+---@field isShowPausedMessage any
+---@field render any
+---@field setFadeBeforeUI any
+---@field setPlayerInventory any
+---@field setPlayerInventoryTooltip any
+---@field setShowLuaDebuggerOnError any
+---@field setShowPausedMessage any
+---@field setVisibleAllUI any
+---@field update any
+UIManager = UIManager or {}
+
+function UIManager.AddUI() end
+function UIManager.FadeOut() end
+function UIManager.RemoveElement() end
+function UIManager.RemoveUI() end
+function UIManager.getBlinkAlpha() end
+function UIManager.getClock() end
+function UIManager.getLastPicked() end
+function UIManager.getMillisSinceLastRender() end
+function UIManager.getMillisSinceLastUpdate() end
+function UIManager.getMoodleUI() end
+function UIManager.getSecondsSinceLastRender() end
+function UIManager.getSecondsSinceLastUpdate() end
+function UIManager.getSpeedControls() end
+function UIManager.getSyncedIconIndex() end
+function UIManager.getUI() end
+function UIManager.isDoubleClick() end
+function UIManager.isShowLuaDebuggerOnError() end
+function UIManager.isShowPausedMessage() end
+function UIManager.render() end
+function UIManager.setFadeBeforeUI() end
+function UIManager.setPlayerInventory() end
+function UIManager.setPlayerInventoryTooltip() end
+function UIManager.setShowLuaDebuggerOnError() end
+function UIManager.setShowPausedMessage() end
+function UIManager.setVisibleAllUI() end
+function UIManager.update() end

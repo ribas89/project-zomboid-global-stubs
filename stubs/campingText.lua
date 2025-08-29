@@ -1,0 +1,25 @@
+---@meta
+---@class campingText
+---@field addFuel any
+---@field addPetrol any
+---@field addTent any
+---@field lightCampfire any
+---@field lightFromKindle any
+---@field lightFromLiterature any
+---@field placeCampfire any
+---@field putOutCampfire any
+---@field removeCampfire any
+---@field removeTent any
+---@field sleepInTent any
+---@field addFuel any
+---@field addPetrol any
+---@field addTent any
+---@field lightCampfire any
+---@field lightFromKindle any
+---@field placeCampfire any
+---@field putOutCampfire any
+---@field removeCampfire any
+---@field removeTent any
+---@field sleepInTent any
+campingText = campingText or {}
+

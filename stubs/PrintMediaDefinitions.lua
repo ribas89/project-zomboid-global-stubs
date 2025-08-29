@@ -1,0 +1,33 @@
+---@meta
+---@class PrintMediaDefinitions
+---@field Brochures any
+---@field Fliers any
+---@field MiscDetails any
+---@field NewspaperDetails any
+---@field Newspapers any
+---@field OldNewspapers any
+---@field RegionalPapers any
+---@field lua any
+---@field Brochures any
+---@field Fliers any
+---@field MiscDetails any
+---@field NewspaperDetails any
+---@field Newspapers any
+---@field OldNewspapers any
+---@field RegionalPapers any
+PrintMediaDefinitions = PrintMediaDefinitions or {}
+
+---@class PrintMediaDefinitions_RegionalPapers
+---@field General any
+---@field Louisville any
+---@field MarchRidge any
+---@field Muldraugh any
+---@field Riverside any
+---@field Rosewood any
+---@field General any
+---@field Louisville any
+---@field MarchRidge any
+---@field Muldraugh any
+---@field Riverside any
+---@field Rosewood any
+PrintMediaDefinitions.RegionalPapers = PrintMediaDefinitions.RegionalPapers or {}

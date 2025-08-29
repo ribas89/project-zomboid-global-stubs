@@ -1,0 +1,48 @@
+---@meta
+---@class ClutterTables
+---@field BinItems any
+---@field BinJunk any
+---@field ClosetItems any
+---@field ClosetJunk any
+---@field CounterItems any
+---@field CounterJunk any
+---@field DeskItems any
+---@field DeskJunk any
+---@field GloveBoxItems any
+---@field GloveBoxJunk any
+---@field GloveBoxWorkItems any
+---@field GloveBoxWorkJunk any
+---@field SeatFrontItems any
+---@field SeatFrontJunk any
+---@field SeatRearItems any
+---@field SeatRearJunk any
+---@field ShelfItems any
+---@field ShelfJunk any
+---@field SideTableItems any
+---@field SideTableJunk any
+---@field TrunkItems any
+---@field TrunkJunk any
+---@field BinItems any
+---@field BinJunk any
+---@field ClosetItems any
+---@field ClosetJunk any
+---@field CounterItems any
+---@field CounterJunk any
+---@field DeskItems any
+---@field DeskJunk any
+---@field GloveBoxItems any
+---@field GloveBoxJunk any
+---@field GloveBoxWorkItems any
+---@field GloveBoxWorkJunk any
+---@field SeatFrontItems any
+---@field SeatFrontJunk any
+---@field SeatRearItems any
+---@field SeatRearJunk any
+---@field ShelfItems any
+---@field ShelfJunk any
+---@field SideTableItems any
+---@field SideTableJunk any
+---@field TrunkItems any
+---@field TrunkJunk any
+ClutterTables = ClutterTables or {}
+

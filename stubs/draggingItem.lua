@@ -1,0 +1,26 @@
+---@meta
+---@class draggingItem
+---@field build any
+---@field canBeBuild any
+---@field clickedUI any
+---@field dragNilAfterPlace any
+---@field isLeftDown any
+---@field nSprite any
+---@field north any
+---@field player any
+---@field square any
+---@field xJoypad any
+---@field yJoypad any
+---@field zJoypad any
+---@field build any
+---@field canBeBuild any
+---@field clickedUI any
+---@field isLeftDown any
+---@field nSprite any
+---@field player any
+---@field square any
+---@field xJoypad any
+---@field yJoypad any
+---@field zJoypad any
+draggingItem = draggingItem or {}
+

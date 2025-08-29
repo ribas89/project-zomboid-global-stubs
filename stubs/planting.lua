@@ -1,0 +1,24 @@
+---@meta
+---@class planting
+---@field compost any
+---@field fertilizer any
+---@field hasSeed any
+---@field hasVegetable any
+---@field mildewLvl any
+---@field nbOfGrow any
+---@field nextGrowing any
+---@field slugsLvl any
+---@field state any
+---@field typeOfSeed any
+---@field waterLvl any
+---@field waterNeeded any
+---@field waterNeededMax any
+---@field compost any
+---@field fertilizer any
+---@field hasSeed any
+---@field hasVegetable any
+---@field nextGrowing any
+---@field waterNeeded any
+---@field waterNeededMax any
+planting = planting or {}
+

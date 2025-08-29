@@ -1,0 +1,25 @@
+---@meta
+---@class scrapDef
+---@field addToInventory any
+---@field baseActionTime any
+---@field baseChance any
+---@field fromModData any
+---@field isWav any
+---@field perk any
+---@field perkName any
+---@field recipeAnimNode any
+---@field recipeProp1 any
+---@field recipeProp2 any
+---@field recipeSound any
+---@field returnItems any
+---@field returnItemsStatic any
+---@field sound any
+---@field toolNames any
+---@field tools any
+---@field tools2 any
+---@field unusableItem any
+---@field fromModData any
+---@field returnItems any
+---@field returnItemsStatic any
+scrapDef = scrapDef or {}
+

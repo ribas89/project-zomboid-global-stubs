@@ -1,0 +1,3 @@
+---@meta
+function getMaxActivePlayers(...) end
+

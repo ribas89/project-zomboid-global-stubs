@@ -1,0 +1,82 @@
+---@meta
+---@class worldgen
+---@field biomes any
+---@field biomes_map any
+---@field features any
+---@field prefabs any
+worldgen = worldgen or {}
+
+---@class worldgen_features
+---@field BUSH any
+---@field GROUND any
+---@field ORE any
+---@field PLANT any
+---@field TREE any
+worldgen.features = worldgen.features or {}
+---@class worldgen_features_BUSH
+---@field bush_clean any
+---@field bush_dry any
+---@field bush_fat any
+---@field bush_regular any
+worldgen.features.BUSH = worldgen.features.BUSH or {}
+---@class worldgen_features_GROUND
+---@field clay any
+---@field dark_grass any
+---@field dirt any
+---@field light_grass any
+---@field medium_grass any
+---@field sand any
+---@field water any
+worldgen.features.GROUND = worldgen.features.GROUND or {}
+---@class worldgen_features_ORE
+---@field boulders any
+---@field copper_ore any
+---@field flint any
+---@field iron_ore any
+---@field limestone any
+worldgen.features.ORE = worldgen.features.ORE or {}
+---@class worldgen_features_PLANT
+---@field boulderslow_prim any
+---@field bush_dry any
+---@field fern any
+---@field floor_leaves any
+---@field flower_overlay any
+---@field generic_plant any
+---@field grass_high any
+---@field grass_low any
+---@field grass_medium any
+worldgen.features.PLANT = worldgen.features.PLANT or {}
+---@class worldgen_features_TREE
+---@field birch any
+---@field birch_jumbo any
+---@field boulders_light any
+---@field boulders_primaryforest any
+---@field bush_birchforest any
+---@field bush_phforest any
+---@field bush_primaryforest any
+---@field dogwood any
+---@field dogwood_jumbo any
+---@field grass_birch any
+---@field grass_high any
+---@field grass_primaryforest any
+---@field hawthorn any
+---@field hawthorn_jumbo any
+---@field hemlock any
+---@field hemlock_jumbo any
+---@field holly any
+---@field holly_jumbo any
+---@field linden any
+---@field linden_jumbo any
+---@field maple any
+---@field maple_jumbo any
+---@field pine any
+---@field pine_jumbo any
+---@field pine_sapling any
+---@field redbud any
+---@field redbud_jumbo any
+---@field silverbell any
+---@field silverbell_jumbo any
+---@field stumps any
+---@field yellowwood any
+---@field yellowwood_jumbo any
+worldgen.features.TREE = worldgen.features.TREE or {}

@@ -1,0 +1,24 @@
+---@meta
+---@class UIFont
+---@field Code any
+---@field Cred1 any
+---@field Cred2 any
+---@field Debug any
+---@field DebugConsole any
+---@field Handwritten any
+---@field Large any
+---@field Medium any
+---@field NewLarge any
+---@field NewMedium any
+---@field NewSmall any
+---@field Normal any
+---@field SdfBold any
+---@field SdfBoldItalic any
+---@field SdfOldBold any
+---@field SdfRegular any
+---@field Smal any
+---@field Small any
+---@field Title any
+---@field normal any
+UIFont = UIFont or {}
+

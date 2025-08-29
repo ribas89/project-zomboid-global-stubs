@@ -1,0 +1,41 @@
+---@meta
+---@class MultiplierConfig
+---@field Aiming any
+---@field Axe any
+---@field Blacksmith any
+---@field Blunt any
+---@field Butchering any
+---@field Carving any
+---@field Cooking any
+---@field Doctor any
+---@field Electricity any
+---@field Farming any
+---@field Fishing any
+---@field Fitness any
+---@field FlintKnapping any
+---@field Glassmaking any
+---@field Global any
+---@field GlobalToggle any
+---@field Husbandry any
+---@field Lightfoot any
+---@field LongBlade any
+---@field Maintenance any
+---@field Masonry any
+---@field Mechanics any
+---@field MetalWelding any
+---@field Nimble any
+---@field PlantScavenging any
+---@field Pottery any
+---@field Reloading any
+---@field SmallBlade any
+---@field SmallBlunt any
+---@field Sneak any
+---@field Spear any
+---@field Sprinting any
+---@field Strength any
+---@field Tailoring any
+---@field Tracking any
+---@field Trapping any
+---@field Woodwork any
+MultiplierConfig = MultiplierConfig or {}
+

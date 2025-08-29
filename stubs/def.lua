@@ -1,0 +1,35 @@
+---@meta
+---@class def
+---@field babyType any
+---@field baseSprite any
+---@field bones any
+---@field bonusMonths any
+---@field categories any
+---@field defaultValue any
+---@field feather any
+---@field head any
+---@field itemSize any
+---@field leather any
+---@field maxWater any
+---@field months any
+---@field name any
+---@field parts any
+---@field skull any
+---@field sprite any
+---@field sprite1 any
+---@field sprite2 any
+---@field spriteN any
+---@field spriteNorth1 any
+---@field spriteNorth2 any
+---@field spriteW any
+---@field type any
+---@field validMonths any
+---@field values any
+---@field xoffset any
+---@field yoffset any
+---@field zoffset any
+---@field categories any
+---@field itemSize any
+---@field validMonths any
+def = def or {}
+

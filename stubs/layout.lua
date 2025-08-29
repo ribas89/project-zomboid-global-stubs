@@ -1,0 +1,31 @@
+---@meta
+---@class layout
+---@field column2 any
+---@field current any
+---@field height any
+---@field ini any
+---@field locked any
+---@field name any
+---@field pin any
+---@field sortBy any
+---@field tabs any
+---@field userPosition any
+---@field visible any
+---@field width any
+---@field x any
+---@field y any
+---@field column2 any
+---@field current any
+---@field height any
+---@field locked any
+---@field name any
+---@field pin any
+---@field sortBy any
+---@field tabs any
+---@field userPosition any
+---@field visible any
+---@field width any
+---@field x any
+---@field y any
+layout = layout or {}
+

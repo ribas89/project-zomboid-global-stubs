@@ -1,0 +1,52 @@
+---@meta
+---@class WearClothingAnimations
+---@field Belt any
+---@field BeltExtra any
+---@field Dress any
+---@field EarTop any
+---@field Ears any
+---@field Eyes any
+---@field FannyPackBack any
+---@field FannyPackFront any
+---@field FullHat any
+---@field Hat any
+---@field Jacket any
+---@field JacketHat any
+---@field Legs1 any
+---@field Mask any
+---@field MaskEyes any
+---@field Nose any
+---@field Pants any
+---@field Shirt any
+---@field Shoes any
+---@field ShortSleeveShirt any
+---@field Skirt any
+---@field Socks any
+---@field TankTop any
+---@field Tshirt any
+---@field Belt any
+---@field BeltExtra any
+---@field Dress any
+---@field EarTop any
+---@field Ears any
+---@field Eyes any
+---@field FannyPackBack any
+---@field FannyPackFront any
+---@field FullHat any
+---@field Hat any
+---@field Jacket any
+---@field JacketHat any
+---@field Legs1 any
+---@field Mask any
+---@field MaskEyes any
+---@field Nose any
+---@field Pants any
+---@field Shirt any
+---@field Shoes any
+---@field ShortSleeveShirt any
+---@field Skirt any
+---@field Socks any
+---@field TankTop any
+---@field Tshirt any
+WearClothingAnimations = WearClothingAnimations or {}
+

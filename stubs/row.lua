@@ -1,0 +1,21 @@
+---@meta
+---@class row
+---@field backgroundColor any
+---@field borderColor any
+---@field configHeight any
+---@field drawBackground any
+---@field drawBorder any
+---@field height any
+---@field isAutoFill any
+---@field isPercent any
+---@field minimumHeight any
+---@field visible any
+---@field y any
+---@field configHeight any
+---@field height any
+---@field isAutoFill any
+---@field isPercent any
+---@field minimumHeight any
+---@field y any
+row = row or {}
+

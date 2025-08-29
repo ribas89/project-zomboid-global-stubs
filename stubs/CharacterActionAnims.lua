@@ -1,0 +1,26 @@
+---@meta
+---@class CharacterActionAnims
+---@field Bandage any
+---@field Build any
+---@field BuildLow any
+---@field Chop_tree any
+---@field Craft any
+---@field Destroy any
+---@field Dig any
+---@field DigHoe any
+---@field DigPickAxe any
+---@field DigShovel any
+---@field DigTrowel any
+---@field Disassemble any
+---@field Drink any
+---@field Eat any
+---@field InsertBullets any
+---@field Paint any
+---@field Pour any
+---@field Read any
+---@field Reload any
+---@field RemoveBullets any
+---@field Shave any
+---@field TakePills any
+CharacterActionAnims = CharacterActionAnims or {}
+

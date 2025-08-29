@@ -1,0 +1,3 @@
+---@meta
+function isMouseButtonPressed(...) end
+

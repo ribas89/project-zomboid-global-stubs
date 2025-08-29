@@ -1,0 +1,251 @@
+---@meta
+---@class t
+---@field ALongString any
+---@field AnotherKey any
+---@field FalseValue any
+---@field Number any
+---@field SomeKey any
+---@field ThisIsATable any
+---@field bar any
+---@field cabinet any
+---@field campfire any
+---@field children any
+---@field clothingDryer any
+---@field clothingWasher any
+---@field coffin any
+---@field color any
+---@field colorbox any
+---@field colorboxAlpha any
+---@field colorboxAlpha_int any
+---@field colorbox_int any
+---@field composter any
+---@field count any
+---@field counter any
+---@field crate any
+---@field createMenu any
+---@field description any
+---@field drawer any
+---@field enabled any
+---@field extents any
+---@field femalePerson any
+---@field femaleZombie any
+---@field floor any
+---@field freezer any
+---@field fridge any
+---@field garbage any
+---@field glovebox any
+---@field init any
+---@field invItems any
+---@field isTextOnly any
+---@field items any
+---@field keyLen any
+---@field labelA any
+---@field labelA_ext any
+---@field labelA_int any
+---@field labelB any
+---@field labelB_ext any
+---@field labelB_int any
+---@field labelG any
+---@field labelG_ext any
+---@field labelG_int any
+---@field labelMax any
+---@field labelMid any
+---@field labelMin any
+---@field labelR any
+---@field labelR_ext any
+---@field labelR_int any
+---@field labelTitle any
+---@field logs any
+---@field malePerson any
+---@field maleZombie any
+---@field mannequin any
+---@field maxLineWidth any
+---@field medicine any
+---@field microwave any
+---@field name any
+---@field offset any
+---@field oven any
+---@field parentMenu any
+---@field plant any
+---@field postBox any
+---@field radius any
+---@field rotate any
+---@field sack any
+---@field scale any
+---@field scarecrow any
+---@field seat any
+---@field shelf any
+---@field shelter any
+---@field sliderA any
+---@field sliderA_ext any
+---@field sliderA_int any
+---@field sliderB any
+---@field sliderB_ext any
+---@field sliderB_int any
+---@field sliderG any
+---@field sliderG_ext any
+---@field sliderG_int any
+---@field sliderR any
+---@field sliderR_ext any
+---@field sliderR_int any
+---@field tent any
+---@field tickbox any
+---@field toolcabinet any
+---@field trunk any
+---@field type any
+---@field uiOrder any
+---@field uses any
+---@field value any
+---@field valueColor any
+---@field var any
+---@field vending any
+---@field zIndex any
+---@field ALongString any
+---@field AnotherKey any
+---@field FalseValue any
+---@field Number any
+---@field SomeKey any
+---@field ThisIsATable any
+---@field bar any
+---@field cabinet any
+---@field campfire any
+---@field children any
+---@field clothingDryer any
+---@field clothingWasher any
+---@field coffin any
+---@field color any
+---@field colorbox any
+---@field colorboxAlpha any
+---@field colorboxAlpha_int any
+---@field colorbox_int any
+---@field composter any
+---@field count any
+---@field counter any
+---@field crate any
+---@field description any
+---@field drawer any
+---@field enabled any
+---@field extents any
+---@field femalePerson any
+---@field femaleZombie any
+---@field floor any
+---@field freezer any
+---@field fridge any
+---@field garbage any
+---@field glovebox any
+---@field isTextOnly any
+---@field keyLen any
+---@field labelA any
+---@field labelA_int any
+---@field labelB any
+---@field labelB_int any
+---@field labelG any
+---@field labelG_int any
+---@field labelMax any
+---@field labelMid any
+---@field labelMin any
+---@field labelR any
+---@field labelR_int any
+---@field labelTitle any
+---@field logs any
+---@field malePerson any
+---@field maleZombie any
+---@field mannequin any
+---@field maxLineWidth any
+---@field medicine any
+---@field microwave any
+---@field name any
+---@field offset any
+---@field oven any
+---@field parentMenu any
+---@field plant any
+---@field postBox any
+---@field radius any
+---@field rotate any
+---@field sack any
+---@field scale any
+---@field scarecrow any
+---@field seat any
+---@field shelf any
+---@field shelter any
+---@field sliderA any
+---@field sliderA_ext any
+---@field sliderA_int any
+---@field sliderB any
+---@field sliderB_ext any
+---@field sliderB_int any
+---@field sliderG any
+---@field sliderG_ext any
+---@field sliderG_int any
+---@field sliderR any
+---@field sliderR_ext any
+---@field sliderR_int any
+---@field tent any
+---@field tickbox any
+---@field toolcabinet any
+---@field trunk any
+---@field type any
+---@field uiOrder any
+---@field uses any
+---@field value any
+---@field valueColor any
+---@field var any
+---@field vending any
+t = t or {}
+
+function t.init() end
+---@class t_bar
+t.bar = t.bar or {}
+function t.bar:getBottom() end
+function t.bar:setDoKnob() end
+function t.bar:setGradientTexture() end
+function t.bar:setHighlightRadius() end
+function t.bar:setValue() end
+---@class t_extents
+t.extents = t.extents or {}
+function t.extents:mul() end
+---@class t_labelMid
+---@field center any
+---@field center any
+t.labelMid = t.labelMid or {}
+---@class t_labelTitle
+---@field center any
+---@field prefixName any
+---@field center any
+---@field prefixName any
+t.labelTitle = t.labelTitle or {}
+---@class t_offset
+t.offset = t.offset or {}
+function t.offset:mul() end
+---@class t_sliderA_ext
+---@field pretext any
+---@field pretext any
+t.sliderA_ext = t.sliderA_ext or {}
+---@class t_sliderA_int
+---@field pretext any
+---@field pretext any
+t.sliderA_int = t.sliderA_int or {}
+---@class t_sliderB_ext
+---@field pretext any
+---@field pretext any
+t.sliderB_ext = t.sliderB_ext or {}
+---@class t_sliderB_int
+---@field pretext any
+---@field pretext any
+t.sliderB_int = t.sliderB_int or {}
+---@class t_sliderG_ext
+---@field pretext any
+---@field pretext any
+t.sliderG_ext = t.sliderG_ext or {}
+---@class t_sliderG_int
+---@field pretext any
+---@field pretext any
+t.sliderG_int = t.sliderG_int or {}
+---@class t_sliderR_ext
+---@field pretext any
+---@field pretext any
+t.sliderR_ext = t.sliderR_ext or {}
+---@class t_sliderR_int
+---@field pretext any
+---@field pretext any
+t.sliderR_int = t.sliderR_int or {}

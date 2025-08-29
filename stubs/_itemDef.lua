@@ -1,0 +1,23 @@
+---@meta
+---@class _itemDef
+---@field canBeOnTreeSquare any
+---@field forceOnWater any
+---@field forceOutside any
+---@field isItemOverrideSize any
+---@field isOnWater any
+---@field itemSizeModifier any
+---@field itemTags any
+---@field perks any
+---@field poisonChance any
+---@field poisonDetectionLevel any
+---@field poisonPowerMax any
+---@field poisonPowerMin any
+---@field recipes any
+---@field skill any
+---@field traits any
+---@field type any
+---@field validMonths any
+---@field xp any
+---@field zones any
+_itemDef = _itemDef or {}
+

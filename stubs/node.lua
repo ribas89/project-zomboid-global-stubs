@@ -1,0 +1,39 @@
+---@meta
+---@class node
+---@field equalsX any
+---@field expanded any
+---@field highlight any
+---@field isBracket any
+---@field isDrawIcon any
+---@field isNeedle any
+---@field isTool any
+---@field isToolLeft any
+---@field isToolRight any
+---@field items any
+---@field key any
+---@field keyCol any
+---@field keyW any
+---@field keyX any
+---@field name any
+---@field scriptItem any
+---@field val any
+---@field valCol any
+---@field valW any
+---@field valX any
+---@field width any
+---@field equalsX any
+---@field expanded any
+---@field isTool any
+---@field isToolLeft any
+---@field isToolRight any
+---@field key any
+---@field keyCol any
+---@field keyW any
+---@field keyX any
+---@field val any
+---@field valCol any
+---@field valW any
+---@field valX any
+---@field width any
+node = node or {}
+

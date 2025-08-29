@@ -1,0 +1,79 @@
+---@meta
+---@class ISInventoryPage
+---@field ContainerSizeChanged any
+---@field GetFloorContainer any
+---@field OnContainerUpdate any
+---@field OnObjectHighlighted any
+---@field addFuelOption any
+---@field addPropaneTileTank any
+---@field bagSoundDelay any
+---@field bagSoundTime any
+---@field close any
+---@field collapse any
+---@field dirtyUI any
+---@field displayFireTileInfo any
+---@field floorContainer any
+---@field lightFireOption any
+---@field loadWeight any
+---@field lootAll any
+---@field onBackpackClick any
+---@field onBackpackMouseDown any
+---@field onBackpackMouseUp any
+---@field onBackpackRightMouseDown any
+---@field onChangeFilter any
+---@field onInfo any
+---@field onInventoryFontChanged any
+---@field onKeyPressed any
+---@field onMouseOutButton any
+---@field onMouseOverButton any
+---@field onToggleVisible any
+---@field ongamestart any
+---@field playerInventory any
+---@field putOut any
+---@field putSoundContainer any
+---@field removeAll any
+---@field removePropaneTileTank any
+---@field renderDirty any
+---@field setPinned any
+---@field switchOutfit any
+---@field toggleInventory any
+---@field togglePropaneTile any
+---@field toggleStove any
+---@field transferAll any
+---@field wearAll any
+---@field ContainerSizeChanged any
+---@field OnContainerUpdate any
+---@field bagSoundDelay any
+---@field bagSoundTime any
+---@field dirtyUI any
+---@field floorContainer any
+---@field onInventoryFontChanged any
+---@field onKeyPressed any
+---@field ongamestart any
+---@field putSoundContainer any
+---@field renderDirty any
+---@field toggleInventory any
+ISInventoryPage = ISInventoryPage or {}
+
+function ISInventoryPage.ContainerSizeChanged() end
+function ISInventoryPage.GetFloorContainer() end
+function ISInventoryPage.GetFloorContainer(playerNum) end
+function ISInventoryPage.OnContainerUpdate(object) end
+function ISInventoryPage.OnObjectHighlighted() end
+function ISInventoryPage.OnObjectHighlighted(playerNum, object, isHighlighted) end
+function ISInventoryPage.dirtyUI() end
+function ISInventoryPage.loadWeight() end
+function ISInventoryPage.loadWeight(inv) end
+function ISInventoryPage.onInventoryFontChanged() end
+function ISInventoryPage.onKeyPressed(key) end
+function ISInventoryPage.ongamestart() end
+function ISInventoryPage.toggleInventory() end
+function ISInventoryPage.transferAll() end
+---@class ISInventoryPage_playerInventory
+---@field inventoryPane any
+ISInventoryPage.playerInventory = ISInventoryPage.playerInventory or {}
+function ISInventoryPage.playerInventory:getIsVisible() end
+function ISInventoryPage.playerInventory:getWidth() end
+function ISInventoryPage.playerInventory:getX() end
+function ISInventoryPage.playerInventory:getY() end
+function ISInventoryPage.playerInventory:setVisible() end

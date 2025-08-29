@@ -1,0 +1,42 @@
+---@meta
+---@class UnderwearDefinition
+---@field Female_AnimalPrint any
+---@field Female_BasicTint any
+---@field Female_Black any
+---@field Female_FrillyPink any
+---@field Female_FrillyRed any
+---@field Female_RedSpots any
+---@field FrillyBlack any
+---@field Male_BoxersHearts any
+---@field Male_BoxersRedStripes any
+---@field Male_BoxersTint any
+---@field Male_BriefsSmallTrunks_Black any
+---@field Male_BriefsSmallTrunks_Blue any
+---@field Male_BriefsSmallTrunks_Red any
+---@field Male_BriefsSmallTrunks_White any
+---@field Male_BriefsTint any
+---@field Male_Briefs_AnimalPrints any
+---@field Male_Silk_Black any
+---@field Male_Silk_Red any
+---@field baseChance any
+---@field Female_AnimalPrint any
+---@field Female_BasicTint any
+---@field Female_Black any
+---@field Female_FrillyPink any
+---@field Female_FrillyRed any
+---@field Female_RedSpots any
+---@field FrillyBlack any
+---@field Male_BoxersHearts any
+---@field Male_BoxersRedStripes any
+---@field Male_BoxersTint any
+---@field Male_BriefsSmallTrunks_Black any
+---@field Male_BriefsSmallTrunks_Blue any
+---@field Male_BriefsSmallTrunks_Red any
+---@field Male_BriefsSmallTrunks_White any
+---@field Male_BriefsTint any
+---@field Male_Briefs_AnimalPrints any
+---@field Male_Silk_Black any
+---@field Male_Silk_Red any
+---@field baseChance any
+UnderwearDefinition = UnderwearDefinition or {}
+

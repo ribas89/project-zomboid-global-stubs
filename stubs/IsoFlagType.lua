@@ -1,0 +1,54 @@
+---@meta
+---@class IsoFlagType
+---@field DoorWallN any
+---@field DoorWallW any
+---@field HasRaindrop any
+---@field HoppableN any
+---@field HoppableW any
+---@field TallHoppableN any
+---@field TallHoppableW any
+---@field WallN any
+---@field WallNTrans any
+---@field WallNW any
+---@field WallOverlay any
+---@field WallSE any
+---@field WallW any
+---@field WallWTrans any
+---@field WindowN any
+---@field WindowW any
+---@field attachedE any
+---@field attachedN any
+---@field attachedS any
+---@field attachedW any
+---@field bed any
+---@field burning any
+---@field burntOut any
+---@field canBeCut any
+---@field canBeRemoved any
+---@field climbSheetE any
+---@field climbSheetN any
+---@field climbSheetS any
+---@field climbSheetTopE any
+---@field climbSheetTopN any
+---@field climbSheetTopS any
+---@field climbSheetTopW any
+---@field climbSheetW any
+---@field collideN any
+---@field collideW any
+---@field cutN any
+---@field cutW any
+---@field doorN any
+---@field doorW any
+---@field exterior any
+---@field noStart any
+---@field solid any
+---@field solidfloor any
+---@field solidtrans any
+---@field taintedWater any
+---@field vegitation any
+---@field water any
+---@field waterPiped any
+---@field windowN any
+---@field windowW any
+IsoFlagType = IsoFlagType or {}
+

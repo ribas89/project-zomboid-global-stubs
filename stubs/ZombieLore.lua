@@ -1,0 +1,32 @@
+---@meta
+---@class ZombieLore
+---@field ActiveOnly any
+---@field ChanceOfAttachedWeapon any
+---@field Cognition any
+---@field CrawlUnderVehicle any
+---@field DisableFakeDead any
+---@field FenceDamageMultiplier any
+---@field FenceThumpersRequired any
+---@field Hearing any
+---@field Memory any
+---@field Mortality any
+---@field PlayerSpawnZombieRemoval any
+---@field Reanimate any
+---@field Sight any
+---@field Speed any
+---@field SpottedLogic any
+---@field SprinterPercentage any
+---@field Strength any
+---@field ThumpNoChasing any
+---@field ThumpOnConstruction any
+---@field Toughness any
+---@field Transmission any
+---@field TriggerHouseAlarm any
+---@field ZombiesArmorFactor any
+---@field ZombiesCrawlersDragDown any
+---@field ZombiesDragDown any
+---@field ZombiesFallDamage any
+---@field ZombiesFenceLunge any
+---@field ZombiesMaxDefense any
+ZombieLore = ZombieLore or {}
+

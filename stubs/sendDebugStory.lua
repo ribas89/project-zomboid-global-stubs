@@ -1,0 +1,3 @@
+---@meta
+function sendDebugStory(...) end
+

@@ -1,0 +1,31 @@
+---@meta
+---@class InventoryUseStep
+---@field InLocJoypad any
+---@field bloodMouse1 any
+---@field clickedOnInventory any
+---@field dontTurn any
+---@field eat any
+---@field fillBottle any
+---@field finished any
+---@field focusLootingPanel any
+---@field lastInventory any
+---@field lootWeapon any
+---@field panContainer any
+---@field seeWeapon any
+---@field selectInventory any
+---@field sink any
+---@field sinkX any
+---@field sinkY any
+---@field spawnPan any
+---@field bloodMouse1 any
+---@field clickedOnInventory any
+---@field dontTurn any
+---@field finished any
+---@field lastInventory any
+---@field panContainer any
+---@field sink any
+---@field sinkX any
+---@field sinkY any
+InventoryUseStep = InventoryUseStep or {}
+
+function InventoryUseStep.spawnPan() end

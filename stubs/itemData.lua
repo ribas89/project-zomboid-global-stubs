@@ -1,0 +1,30 @@
+---@meta
+---@class itemData
+---@field available any
+---@field b any
+---@field b2 any
+---@field count any
+---@field fluidFullType any
+---@field fullType any
+---@field g any
+---@field g2 any
+---@field it any
+---@field item any
+---@field name any
+---@field r any
+---@field r2 any
+---@field square any
+---@field texture any
+---@field available any
+---@field b any
+---@field b2 any
+---@field fluidFullType any
+---@field fullType any
+---@field g any
+---@field g2 any
+---@field name any
+---@field r any
+---@field r2 any
+---@field texture any
+itemData = itemData or {}
+

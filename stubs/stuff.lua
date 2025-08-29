@@ -1,0 +1,52 @@
+---@meta
+---@class stuff
+---@field allele1 any
+---@field allele2 any
+---@field currentValue1Btn any
+---@field currentValue2Btn any
+---@field dominant1Btn any
+---@field dominant2Btn any
+---@field gd1Btn any
+---@field gd2Btn any
+---@field name any
+---@field used1Btn any
+---@field allele1 any
+---@field allele2 any
+---@field currentValue1Btn any
+---@field currentValue2Btn any
+---@field dominant1Btn any
+---@field dominant2Btn any
+---@field gd1Btn any
+---@field gd2Btn any
+---@field name any
+---@field used1Btn any
+stuff = stuff or {}
+
+---@class stuff_allele1
+---@field allele any
+---@field childValue any
+---@field dominant any
+---@field geneticDisorder any
+---@field used any
+---@field value any
+---@field allele any
+---@field childValue any
+---@field dominant any
+---@field geneticDisorder any
+---@field used any
+---@field value any
+stuff.allele1 = stuff.allele1 or {}
+---@class stuff_allele2
+---@field allele any
+---@field childValue any
+---@field dominant any
+---@field geneticDisorder any
+---@field used any
+---@field value any
+---@field allele any
+---@field childValue any
+---@field dominant any
+---@field geneticDisorder any
+---@field used any
+---@field value any
+stuff.allele2 = stuff.allele2 or {}

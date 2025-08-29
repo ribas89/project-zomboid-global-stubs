@@ -1,0 +1,22 @@
+---@meta
+---@class bird
+---@field baits any
+---@field item any
+---@field maxHour any
+---@field maxSize any
+---@field minHour any
+---@field minSize any
+---@field traps any
+---@field type any
+---@field zone any
+---@field baits any
+---@field item any
+---@field maxHour any
+---@field maxSize any
+---@field minHour any
+---@field minSize any
+---@field traps any
+---@field type any
+---@field zone any
+bird = bird or {}
+

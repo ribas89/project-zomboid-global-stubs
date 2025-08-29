@@ -1,0 +1,24 @@
+---@meta
+---@class newItem
+---@field alpha any
+---@field alphaTimer any
+---@field available any
+---@field category any
+---@field favorite any
+---@field item any
+---@field itemName any
+---@field recipe any
+---@field sources any
+---@field texture any
+---@field alpha any
+---@field alphaTimer any
+---@field available any
+---@field category any
+---@field favorite any
+---@field item any
+---@field itemName any
+---@field recipe any
+---@field sources any
+---@field texture any
+newItem = newItem or {}
+

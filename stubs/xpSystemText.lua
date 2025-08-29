@@ -1,0 +1,22 @@
+---@meta
+---@class xpSystemText
+---@field clothingIns any
+---@field health any
+---@field info any
+---@field locked any
+---@field lvl any
+---@field protection any
+---@field skills any
+---@field unlocked any
+---@field xp any
+---@field clothingIns any
+---@field health any
+---@field info any
+---@field locked any
+---@field lvl any
+---@field protection any
+---@field skills any
+---@field unlocked any
+---@field xp any
+xpSystemText = xpSystemText or {}
+

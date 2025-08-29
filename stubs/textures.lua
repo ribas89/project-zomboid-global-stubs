@@ -1,0 +1,46 @@
+---@meta
+---@class textures
+---@field dashboardBG any
+---@field engineGaugeTex any
+---@field gaugeEmpty any
+---@field gaugeFull any
+---@field gaugeLow any
+---@field iconAirCondition any
+---@field iconBattery any
+---@field iconDoor any
+---@field iconEngine any
+---@field iconHeater any
+---@field iconIgnition any
+---@field iconIgnitionHotwired any
+---@field iconIgnitionKey any
+---@field iconIgnitionStarted any
+---@field iconLights any
+---@field iconSpeedRegulator any
+---@field iconTrunk any
+---@field leftSideFuelTex any
+---@field rightSideFuelTex any
+---@field speedGaugeTex any
+---@field texEngine any
+---@field dashboardBG any
+---@field engineGaugeTex any
+---@field gaugeEmpty any
+---@field gaugeFull any
+---@field gaugeLow any
+---@field iconAirCondition any
+---@field iconBattery any
+---@field iconDoor any
+---@field iconEngine any
+---@field iconHeater any
+---@field iconIgnition any
+---@field iconIgnitionHotwired any
+---@field iconIgnitionKey any
+---@field iconIgnitionStarted any
+---@field iconLights any
+---@field iconSpeedRegulator any
+---@field iconTrunk any
+---@field leftSideFuelTex any
+---@field rightSideFuelTex any
+---@field speedGaugeTex any
+---@field texEngine any
+textures = textures or {}
+

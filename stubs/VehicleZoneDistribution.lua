@@ -1,0 +1,454 @@
+---@meta
+---@class VehicleZoneDistribution
+---@field advertising any
+---@field airportservice any
+---@field airportshuttle any
+---@field ambulance any
+---@field bad any
+---@field business any
+---@field business10 any
+---@field business11 any
+---@field business12 any
+---@field business2 any
+---@field business3 any
+---@field business4 any
+---@field business5 any
+---@field business6 any
+---@field business7 any
+---@field business8 any
+---@field business9 any
+---@field carpenter any
+---@field delivery any
+---@field evacuee any
+---@field farm any
+---@field fire any
+---@field fossoil any
+---@field good any
+---@field junkyard any
+---@field knoxdisti any
+---@field kyheralds any
+---@field lectromax any
+---@field luxuryDealership any
+---@field massgenfac any
+---@field mccoy any
+---@field medium any
+---@field middleClass any
+---@field network3 any
+---@field normalburnt any
+---@field parkingstall any
+---@field police any
+---@field postal any
+---@field prison any
+---@field professional any
+---@field radio any
+---@field ranger any
+---@field scarlet any
+---@field specialburnt any
+---@field spiffo any
+---@field sport any
+---@field struggling any
+---@field trades any
+---@field trafficjame any
+---@field trafficjamn any
+---@field trafficjams any
+---@field trafficjamw any
+---@field trailerpark any
+---@field transit any
+---@field advertising any
+---@field airportservice any
+---@field airportshuttle any
+---@field ambulance any
+---@field bad any
+---@field business any
+---@field business10 any
+---@field business11 any
+---@field business12 any
+---@field business2 any
+---@field business3 any
+---@field business4 any
+---@field business5 any
+---@field business6 any
+---@field business7 any
+---@field business8 any
+---@field business9 any
+---@field carpenter any
+---@field delivery any
+---@field evacuee any
+---@field farm any
+---@field fire any
+---@field fossoil any
+---@field good any
+---@field junkyard any
+---@field knoxdisti any
+---@field kyheralds any
+---@field lectromax any
+---@field luxuryDealership any
+---@field massgenfac any
+---@field mccoy any
+---@field medium any
+---@field middleClass any
+---@field network3 any
+---@field normalburnt any
+---@field parkingstall any
+---@field police any
+---@field postal any
+---@field prison any
+---@field professional any
+---@field radio any
+---@field ranger any
+---@field scarlet any
+---@field specialburnt any
+---@field spiffo any
+---@field sport any
+---@field struggling any
+---@field trades any
+---@field trafficjame any
+---@field trafficjamn any
+---@field trafficjams any
+---@field trafficjamw any
+---@field trailerpark any
+---@field transit any
+VehicleZoneDistribution = VehicleZoneDistribution or {}
+
+---@class VehicleZoneDistribution_advertising
+---@field chanceToSpawnNormal any
+---@field chanceToSpawnSpecial any
+---@field vehicles any
+---@field chanceToSpawnNormal any
+---@field chanceToSpawnSpecial any
+---@field vehicles any
+VehicleZoneDistribution.advertising = VehicleZoneDistribution.advertising or {}
+---@class VehicleZoneDistribution_airportservice
+---@field baseVehicleQuality any
+---@field chanceToSpawnNormal any
+---@field chanceToSpawnSpecial any
+---@field spawnRate any
+---@field vehicles any
+---@field baseVehicleQuality any
+---@field chanceToSpawnNormal any
+---@field chanceToSpawnSpecial any
+---@field spawnRate any
+---@field vehicles any
+VehicleZoneDistribution.airportservice = VehicleZoneDistribution.airportservice or {}
+---@class VehicleZoneDistribution_airportshuttle
+---@field baseVehicleQuality any
+---@field chanceToSpawnNormal any
+---@field chanceToSpawnSpecial any
+---@field spawnRate any
+---@field vehicles any
+---@field baseVehicleQuality any
+---@field chanceToSpawnNormal any
+---@field chanceToSpawnSpecial any
+---@field spawnRate any
+---@field vehicles any
+VehicleZoneDistribution.airportshuttle = VehicleZoneDistribution.airportshuttle or {}
+---@class VehicleZoneDistribution_ambulance
+---@field specialCar any
+---@field vehicles any
+---@field specialCar any
+---@field vehicles any
+VehicleZoneDistribution.ambulance = VehicleZoneDistribution.ambulance or {}
+---@class VehicleZoneDistribution_bad
+---@field baseVehicleQuality any
+---@field chanceToSpawnSpecial any
+---@field vehicles any
+---@field baseVehicleQuality any
+---@field chanceToSpawnSpecial any
+---@field vehicles any
+VehicleZoneDistribution.bad = VehicleZoneDistribution.bad or {}
+---@class VehicleZoneDistribution_business
+---@field specialCar any
+---@field vehicles any
+---@field specialCar any
+---@field vehicles any
+VehicleZoneDistribution.business = VehicleZoneDistribution.business or {}
+---@class VehicleZoneDistribution_carpenter
+---@field chanceToSpawnSpecial any
+---@field vehicles any
+---@field chanceToSpawnSpecial any
+---@field vehicles any
+VehicleZoneDistribution.carpenter = VehicleZoneDistribution.carpenter or {}
+---@class VehicleZoneDistribution_delivery
+---@field baseVehicleQuality any
+---@field chanceToSpawnNormal any
+---@field chanceToSpawnSpecial any
+---@field vehicles any
+---@field baseVehicleQuality any
+---@field chanceToSpawnNormal any
+---@field chanceToSpawnSpecial any
+---@field vehicles any
+VehicleZoneDistribution.delivery = VehicleZoneDistribution.delivery or {}
+---@class VehicleZoneDistribution_evacuee
+---@field baseVehicleQuality any
+---@field chanceToSpawnNormal any
+---@field chanceToSpawnSpecial any
+---@field vehicles any
+---@field baseVehicleQuality any
+---@field chanceToSpawnNormal any
+---@field chanceToSpawnSpecial any
+---@field vehicles any
+VehicleZoneDistribution.evacuee = VehicleZoneDistribution.evacuee or {}
+---@class VehicleZoneDistribution_farm
+---@field chanceToSpawnNormal any
+---@field chanceToSpawnSpecial any
+---@field spawnRate any
+---@field vehicles any
+---@field chanceToSpawnNormal any
+---@field chanceToSpawnSpecial any
+---@field spawnRate any
+---@field vehicles any
+VehicleZoneDistribution.farm = VehicleZoneDistribution.farm or {}
+---@class VehicleZoneDistribution_fire
+---@field specialCar any
+---@field vehicles any
+---@field specialCar any
+---@field vehicles any
+VehicleZoneDistribution.fire = VehicleZoneDistribution.fire or {}
+---@class VehicleZoneDistribution_fossoil
+---@field vehicles any
+---@field vehicles any
+VehicleZoneDistribution.fossoil = VehicleZoneDistribution.fossoil or {}
+---@class VehicleZoneDistribution_good
+---@field baseVehicleQuality any
+---@field spawnRate any
+---@field vehicles any
+---@field baseVehicleQuality any
+---@field spawnRate any
+---@field vehicles any
+VehicleZoneDistribution.good = VehicleZoneDistribution.good or {}
+---@class VehicleZoneDistribution_junkyard
+---@field baseVehicleQuality any
+---@field chanceToPartDamage any
+---@field chanceToSpawnBurnt any
+---@field chanceToSpawnKey any
+---@field spawnRate any
+---@field vehicles any
+---@field baseVehicleQuality any
+---@field chanceToPartDamage any
+---@field chanceToSpawnBurnt any
+---@field chanceToSpawnKey any
+---@field spawnRate any
+---@field vehicles any
+VehicleZoneDistribution.junkyard = VehicleZoneDistribution.junkyard or {}
+---@class VehicleZoneDistribution_knoxdisti
+---@field chanceToSpawnNormal any
+---@field vehicles any
+---@field chanceToSpawnNormal any
+---@field vehicles any
+VehicleZoneDistribution.knoxdisti = VehicleZoneDistribution.knoxdisti or {}
+---@class VehicleZoneDistribution_kyheralds
+---@field chanceToSpawnNormal any
+---@field vehicles any
+---@field chanceToSpawnNormal any
+---@field vehicles any
+VehicleZoneDistribution.kyheralds = VehicleZoneDistribution.kyheralds or {}
+---@class VehicleZoneDistribution_lectromax
+---@field chanceToSpawnNormal any
+---@field vehicles any
+---@field chanceToSpawnNormal any
+---@field vehicles any
+VehicleZoneDistribution.lectromax = VehicleZoneDistribution.lectromax or {}
+---@class VehicleZoneDistribution_luxuryDealership
+---@field baseVehicleQuality any
+---@field chanceToSpawnNormal any
+---@field chanceToSpawnSpecial any
+---@field spawnRate any
+---@field vehicles any
+---@field baseVehicleQuality any
+---@field chanceToSpawnNormal any
+---@field chanceToSpawnSpecial any
+---@field spawnRate any
+---@field vehicles any
+VehicleZoneDistribution.luxuryDealership = VehicleZoneDistribution.luxuryDealership or {}
+---@class VehicleZoneDistribution_massgenfac
+---@field chanceToSpawnNormal any
+---@field vehicles any
+---@field chanceToSpawnNormal any
+---@field vehicles any
+VehicleZoneDistribution.massgenfac = VehicleZoneDistribution.massgenfac or {}
+---@class VehicleZoneDistribution_mccoy
+---@field vehicles any
+---@field vehicles any
+VehicleZoneDistribution.mccoy = VehicleZoneDistribution.mccoy or {}
+---@class VehicleZoneDistribution_medium
+---@field baseVehicleQuality any
+---@field vehicles any
+---@field baseVehicleQuality any
+---@field vehicles any
+VehicleZoneDistribution.medium = VehicleZoneDistribution.medium or {}
+---@class VehicleZoneDistribution_middleClass
+---@field baseVehicleQuality any
+---@field chanceToSpawnNormal any
+---@field chanceToSpawnSpecial any
+---@field vehicles any
+---@field baseVehicleQuality any
+---@field chanceToSpawnNormal any
+---@field chanceToSpawnSpecial any
+---@field vehicles any
+VehicleZoneDistribution.middleClass = VehicleZoneDistribution.middleClass or {}
+---@class VehicleZoneDistribution_network3
+---@field chanceToSpawnNormal any
+---@field vehicles any
+---@field chanceToSpawnNormal any
+---@field vehicles any
+VehicleZoneDistribution.network3 = VehicleZoneDistribution.network3 or {}
+---@class VehicleZoneDistribution_normalburnt
+---@field vehicles any
+---@field vehicles any
+VehicleZoneDistribution.normalburnt = VehicleZoneDistribution.normalburnt or {}
+---@class VehicleZoneDistribution_parkingstall
+---@field baseVehicleQuality any
+---@field chanceToPartDamage any
+---@field vehicles any
+---@field baseVehicleQuality any
+---@field chanceToPartDamage any
+---@field vehicles any
+VehicleZoneDistribution.parkingstall = VehicleZoneDistribution.parkingstall or {}
+---@class VehicleZoneDistribution_police
+---@field chanceToSpawnNormal any
+---@field specialCar any
+---@field vehicles any
+---@field chanceToSpawnNormal any
+---@field specialCar any
+---@field vehicles any
+VehicleZoneDistribution.police = VehicleZoneDistribution.police or {}
+---@class VehicleZoneDistribution_postal
+---@field vehicles any
+---@field vehicles any
+VehicleZoneDistribution.postal = VehicleZoneDistribution.postal or {}
+---@class VehicleZoneDistribution_prison
+---@field chanceToSpawnNormal any
+---@field vehicles any
+---@field chanceToSpawnNormal any
+---@field vehicles any
+VehicleZoneDistribution.prison = VehicleZoneDistribution.prison or {}
+---@class VehicleZoneDistribution_professional
+---@field baseVehicleQuality any
+---@field chanceToSpawnNormal any
+---@field chanceToSpawnSpecial any
+---@field vehicles any
+---@field baseVehicleQuality any
+---@field chanceToSpawnNormal any
+---@field chanceToSpawnSpecial any
+---@field vehicles any
+VehicleZoneDistribution.professional = VehicleZoneDistribution.professional or {}
+---@class VehicleZoneDistribution_radio
+---@field vehicles any
+---@field vehicles any
+VehicleZoneDistribution.radio = VehicleZoneDistribution.radio or {}
+---@class VehicleZoneDistribution_ranger
+---@field specialCar any
+---@field vehicles any
+---@field specialCar any
+---@field vehicles any
+VehicleZoneDistribution.ranger = VehicleZoneDistribution.ranger or {}
+---@class VehicleZoneDistribution_scarlet
+---@field chanceToSpawnNormal any
+---@field vehicles any
+---@field chanceToSpawnNormal any
+---@field vehicles any
+VehicleZoneDistribution.scarlet = VehicleZoneDistribution.scarlet or {}
+---@class VehicleZoneDistribution_specialburnt
+---@field vehicles any
+---@field vehicles any
+VehicleZoneDistribution.specialburnt = VehicleZoneDistribution.specialburnt or {}
+---@class VehicleZoneDistribution_spiffo
+---@field vehicles any
+---@field vehicles any
+VehicleZoneDistribution.spiffo = VehicleZoneDistribution.spiffo or {}
+---@class VehicleZoneDistribution_sport
+---@field baseVehicleQuality any
+---@field vehicles any
+---@field baseVehicleQuality any
+---@field vehicles any
+VehicleZoneDistribution.sport = VehicleZoneDistribution.sport or {}
+---@class VehicleZoneDistribution_struggling
+---@field baseVehicleQuality any
+---@field chanceToSpawnNormal any
+---@field chanceToSpawnSpecial any
+---@field vehicles any
+---@field baseVehicleQuality any
+---@field chanceToSpawnNormal any
+---@field chanceToSpawnSpecial any
+---@field vehicles any
+VehicleZoneDistribution.struggling = VehicleZoneDistribution.struggling or {}
+---@class VehicleZoneDistribution_trades
+---@field baseVehicleQuality any
+---@field chanceToSpawnNormal any
+---@field chanceToSpawnSpecial any
+---@field vehicles any
+---@field baseVehicleQuality any
+---@field chanceToSpawnNormal any
+---@field chanceToSpawnSpecial any
+---@field vehicles any
+VehicleZoneDistribution.trades = VehicleZoneDistribution.trades or {}
+---@class VehicleZoneDistribution_trafficjame
+---@field baseVehicleQuality any
+---@field chanceToPartDamage any
+---@field chanceToSpawnBurnt any
+---@field chanceToSpawnKey any
+---@field vehicles any
+---@field baseVehicleQuality any
+---@field chanceToPartDamage any
+---@field chanceToSpawnBurnt any
+---@field chanceToSpawnKey any
+---@field vehicles any
+VehicleZoneDistribution.trafficjame = VehicleZoneDistribution.trafficjame or {}
+---@class VehicleZoneDistribution_trafficjamn
+---@field baseVehicleQuality any
+---@field chanceToPartDamage any
+---@field chanceToSpawnBurnt any
+---@field chanceToSpawnKey any
+---@field vehicles any
+---@field baseVehicleQuality any
+---@field chanceToPartDamage any
+---@field chanceToSpawnBurnt any
+---@field chanceToSpawnKey any
+---@field vehicles any
+VehicleZoneDistribution.trafficjamn = VehicleZoneDistribution.trafficjamn or {}
+---@class VehicleZoneDistribution_trafficjams
+---@field baseVehicleQuality any
+---@field chanceToPartDamage any
+---@field chanceToSpawnBurnt any
+---@field chanceToSpawnKey any
+---@field vehicles any
+---@field baseVehicleQuality any
+---@field chanceToPartDamage any
+---@field chanceToSpawnBurnt any
+---@field chanceToSpawnKey any
+---@field vehicles any
+VehicleZoneDistribution.trafficjams = VehicleZoneDistribution.trafficjams or {}
+---@class VehicleZoneDistribution_trafficjamw
+---@field baseVehicleQuality any
+---@field chanceToPartDamage any
+---@field chanceToSpawnBurnt any
+---@field chanceToSpawnKey any
+---@field vehicles any
+---@field baseVehicleQuality any
+---@field chanceToPartDamage any
+---@field chanceToSpawnBurnt any
+---@field chanceToSpawnKey any
+---@field vehicles any
+VehicleZoneDistribution.trafficjamw = VehicleZoneDistribution.trafficjamw or {}
+---@class VehicleZoneDistribution_trailerpark
+---@field baseVehicleQuality any
+---@field chanceOfOverCar any
+---@field chanceToPartDamage any
+---@field chanceToSpawnBurnt any
+---@field chanceToSpawnSpecial any
+---@field randomAngle any
+---@field vehicles any
+---@field baseVehicleQuality any
+---@field chanceOfOverCar any
+---@field chanceToPartDamage any
+---@field chanceToSpawnBurnt any
+---@field chanceToSpawnSpecial any
+---@field randomAngle any
+---@field vehicles any
+VehicleZoneDistribution.trailerpark = VehicleZoneDistribution.trailerpark or {}
+---@class VehicleZoneDistribution_transit
+---@field chanceToSpawnNormal any
+---@field vehicles any
+---@field chanceToSpawnNormal any
+---@field vehicles any
+VehicleZoneDistribution.transit = VehicleZoneDistribution.transit or {}

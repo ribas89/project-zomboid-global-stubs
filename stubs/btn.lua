@@ -1,0 +1,27 @@
+---@meta
+---@class btn
+---@field anchorBottom any
+---@field anchorTop any
+---@field animal any
+---@field backgroundColor any
+---@field backgroundColorMouseOver any
+---@field borderColor any
+---@field internal any
+---@field isModBind any
+---@field textColor any
+---@field toggleVal any
+---@field toggleVarID any
+---@field toggleVarName any
+---@field width any
+---@field animal any
+---@field backgroundColor any
+---@field backgroundColorMouseOver any
+---@field borderColor any
+---@field internal any
+---@field isModBind any
+---@field textColor any
+---@field toggleVal any
+---@field toggleVarID any
+---@field toggleVarName any
+btn = btn or {}
+

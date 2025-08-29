@@ -1,0 +1,22 @@
+---@meta
+---@class itemInList
+---@field available any
+---@field color any
+---@field count any
+---@field fluidFullType any
+---@field fullType any
+---@field itemToAdd any
+---@field name any
+---@field poison any
+---@field texture any
+---@field available any
+---@field color any
+---@field count any
+---@field fluidFullType any
+---@field fullType any
+---@field itemToAdd any
+---@field name any
+---@field poison any
+---@field texture any
+itemInList = itemInList or {}
+

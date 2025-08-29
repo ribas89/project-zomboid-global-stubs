@@ -1,0 +1,24 @@
+---@meta
+---@class annotation
+---@field anchorX any
+---@field anchorY any
+---@field b any
+---@field g any
+---@field r any
+---@field rotation any
+---@field symbol any
+---@field text any
+---@field x any
+---@field y any
+---@field anchorX any
+---@field anchorY any
+---@field b any
+---@field g any
+---@field r any
+---@field rotation any
+---@field symbol any
+---@field text any
+---@field x any
+---@field y any
+annotation = annotation or {}
+

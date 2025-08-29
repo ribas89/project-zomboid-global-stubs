@@ -1,0 +1,25 @@
+---@meta
+---@class bo
+---@field a any
+---@field b any
+---@field build any
+---@field canBeBuild any
+---@field character any
+---@field g any
+---@field north any
+---@field player any
+---@field r any
+---@field renderOpaqueObjectsInWorld any
+---@field sprite any
+---@field xJoypad any
+---@field yJoypad any
+---@field zJoypad any
+---@field build any
+---@field canBeBuild any
+---@field character any
+---@field player any
+---@field xJoypad any
+---@field yJoypad any
+---@field zJoypad any
+bo = bo or {}
+

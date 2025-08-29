@@ -1,0 +1,26 @@
+---@meta
+---@class newRecipe
+---@field available any
+---@field baseItem any
+---@field customRecipeName any
+---@field evolved any
+---@field extraItems any
+---@field favorite any
+---@field itemName any
+---@field items any
+---@field recipe any
+---@field resultName any
+---@field texture any
+---@field available any
+---@field baseItem any
+---@field customRecipeName any
+---@field evolved any
+---@field extraItems any
+---@field favorite any
+---@field itemName any
+---@field items any
+---@field recipe any
+---@field resultName any
+---@field texture any
+newRecipe = newRecipe or {}
+

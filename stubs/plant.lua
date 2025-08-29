@@ -1,0 +1,37 @@
+---@meta
+---@class plant
+---@field aphidLvl any
+---@field badCare any
+---@field bonusYield any
+---@field compost any
+---@field cursed any
+---@field fertilizer any
+---@field fliesLvl any
+---@field getVegetablesNumber any
+---@field hasSeed any
+---@field hasVegetable any
+---@field hasWeeds any
+---@field health any
+---@field lastWaterHour any
+---@field mildewLvl any
+---@field naturalLight any
+---@field nbOfGrow any
+---@field nextGrowing any
+---@field owner any
+---@field slugsLvl any
+---@field state any
+---@field typeOfSeed any
+---@field waterLvl any
+---@field waterNeeded any
+---@field waterNeededMax any
+---@field x any
+---@field y any
+---@field z any
+---@field badCare any
+---@field health any
+---@field nbOfGrow any
+---@field nextGrowing any
+---@field owner any
+plant = plant or {}
+
+function plant.getVegetablesNumber() end

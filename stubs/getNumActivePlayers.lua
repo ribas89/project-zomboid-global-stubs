@@ -1,0 +1,3 @@
+---@meta
+function getNumActivePlayers(...) end
+

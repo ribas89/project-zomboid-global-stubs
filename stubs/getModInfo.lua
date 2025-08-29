@@ -1,0 +1,3 @@
+---@meta
+function getModInfo(...) end
+

@@ -1,0 +1,21 @@
+---@meta
+---@class tabButton
+---@field backgroundColor any
+---@field data any
+---@field enable any
+---@field height any
+---@field iconTexture any
+---@field image any
+---@field onclick any
+---@field target any
+---@field textColor any
+---@field width any
+---@field data any
+---@field enable any
+---@field iconTexture any
+---@field image any
+---@field onclick any
+---@field target any
+---@field width any
+tabButton = tabButton or {}
+

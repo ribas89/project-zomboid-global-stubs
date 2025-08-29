@@ -1,0 +1,151 @@
+---@meta
+---@class args
+---@field acceptance any
+---@field action any
+---@field age any
+---@field amount any
+---@field animal any
+---@field attachmentA any
+---@field attachmentB any
+---@field b any
+---@field bait any
+---@field baitAmountMulti any
+---@field bobberID any
+---@field bobberX any
+---@field bobberY any
+---@field bodyPartIndex any
+---@field bounds any
+---@field breed any
+---@field broken any
+---@field compost any
+---@field condition any
+---@field container any
+---@field containerIndex any
+---@field count any
+---@field delta any
+---@field depthTexture any
+---@field dieNameText any
+---@field dir any
+---@field direction any
+---@field dirt any
+---@field editor any
+---@field emptyBag any
+---@field feedAmount any
+---@field force any
+---@field front any
+---@field fuelAmt any
+---@field g any
+---@field h any
+---@field haveBeenRepaired any
+---@field haveKey any
+---@field hotwired any
+---@field hoursElapsed any
+---@field id any
+---@field index any
+---@field intensity any
+---@field isAll any
+---@field item any
+---@field itemID any
+---@field itemId any
+---@field jobType any
+---@field key any
+---@field location any
+---@field locked any
+---@field lureFullType any
+---@field lureId any
+---@field male any
+---@field mask any
+---@field maxTemperature any
+---@field mode any
+---@field modelName any
+---@field names any
+---@field nestIdx any
+---@field newBag any
+---@field north any
+---@field objectName any
+---@field oldSqX any
+---@field oldSqY any
+---@field on any
+---@field onlineID any
+---@field open any
+---@field paintType any
+---@field paperType any
+---@field part any
+---@field player any
+---@field psi any
+---@field r any
+---@field radius any
+---@field range any
+---@field rodID any
+---@field rodId any
+---@field rollText any
+---@field rust any
+---@field s any
+---@field scene any
+---@field script any
+---@field sign any
+---@field skeleton any
+---@field skill any
+---@field spriteName any
+---@field square any
+---@field state any
+---@field temp any
+---@field text any
+---@field texture any
+---@field time any
+---@field timer any
+---@field tool any
+---@field type any
+---@field typeOfSeed any
+---@field uses any
+---@field v any
+---@field value any
+---@field var any
+---@field vehicle any
+---@field vehicleA any
+---@field vehicleB any
+---@field wallVine any
+---@field weight any
+---@field x any
+---@field y any
+---@field z any
+---@field bounds any
+---@field delta any
+---@field depthTexture any
+---@field editor any
+---@field jobType any
+---@field mask any
+---@field objectName any
+---@field scene any
+---@field texture any
+---@field tool any
+---@field x any
+---@field y any
+---@field z any
+args = args or {}
+
+---@class args_bounds
+---@field x1 any
+---@field x2 any
+---@field y1 any
+---@field y2 any
+args.bounds = args.bounds or {}
+---@class args_depthTexture
+args.depthTexture = args.depthTexture or {}
+function args.depthTexture:setMinPixel() end
+function args.depthTexture:setPixel() end
+function args.depthTexture:updateGPUTexture() end
+---@class args_item
+---@field character any
+---@field character any
+args.item = args.item or {}
+function args.item:create() end
+---@class args_scene
+args.scene = args.scene or {}
+function args.scene:java3() end
+---@class args_texture
+args.texture = args.texture or {}
+function args.texture:isMaskSet() end
+---@class args_tool
+args.tool = args.tool or {}
+function args.tool:java3() end

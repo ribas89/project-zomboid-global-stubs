@@ -1,0 +1,28 @@
+---@meta
+---@class props
+---@field PartList any
+---@field badMonth any
+---@field canScrap any
+---@field growBack any
+---@field icon any
+---@field imgPrefix any
+---@field isFlower any
+---@field isMultiSprite any
+---@field keyId any
+---@field material any
+---@field maxVeg any
+---@field maxVegAutorized any
+---@field minVeg any
+---@field minVegAutorized any
+---@field produceExtra any
+---@field rawWeight any
+---@field scrapToolUses any
+---@field seasonRecipe any
+---@field seedName any
+---@field seedPerVeg any
+---@field vegetableName any
+---@field x any
+---@field y any
+---@field rawWeight any
+props = props or {}
+

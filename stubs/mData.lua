@@ -1,0 +1,21 @@
+---@meta
+---@class mData
+---@field LidCondition any
+---@field Scratched any
+---@field SealedParcel any
+---@field filterType any
+---@field generatorFullType any
+---@field plowDay any
+---@field tankType any
+---@field usedDelta any
+---@field wormTime any
+---@field LidCondition any
+---@field Scratched any
+---@field SealedParcel any
+---@field filterType any
+---@field plowDay any
+---@field tankType any
+---@field usedDelta any
+---@field wormTime any
+mData = mData or {}
+
